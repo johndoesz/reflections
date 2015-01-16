@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+it starts the the repo and master branch, creating the files and folder needed to track the project.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+it enables one to choose wich files in the working directory to add to the commits
